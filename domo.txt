@@ -1,1 +1,2 @@
-ini isinya
+ini 1
+ini 2
